@@ -1,0 +1,4 @@
+{
+    "URI": "mongodb+srv://kiky123:kiky123@belajar-mongo-qvzfa.mongodb.net/bisnis?retryWrites=true&w=majority",
+    "secret": "secretKey"
+}
